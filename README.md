@@ -16,8 +16,9 @@ PyMasterLauncher is a **master Python app launcher** that allows you to organize
 - **Search/filter bar** to quickly find apps
 - Scrollable interface for managing many apps
 - Status bar to display messages and actions
+---
 
-Usage
+##Usage
 Run the master launcher:
 python3 master_gui.py
 Use the “Add Python App(s)” button to add new .py files.
